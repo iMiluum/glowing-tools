@@ -1,3 +1,0 @@
-# Development Documentation
-
-Start typing here...

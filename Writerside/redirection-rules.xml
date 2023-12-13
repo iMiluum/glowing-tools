@@ -10,4 +10,17 @@
         <description>Created after removal of "This is the first topic" from Help Instance</description>
         <accepts>Default-topic.html</accepts>
     </rule>
+    <rule id="63617a4e">
+        <description>
+            <![CDATA[Created after removal of "<Fabric-Version.md>" from Glowing Tools Documentation]]></description>
+        <accepts>Fabric-Version.html</accepts>
+    </rule>
+    <rule id="48c47f07">
+        <description>Created after removal of "Forge Version" from Glowing Tools Documentation</description>
+        <accepts>Forge-Version.html</accepts>
+    </rule>
+    <rule id="438deaec">
+        <description>Created after removal of "Development Documentation" from Glowing Tools Documentation</description>
+        <accepts>Development-Documentation.html</accepts>
+    </rule>
 </rules>
