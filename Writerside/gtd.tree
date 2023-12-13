@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="gtd"
+                 name="Glowing Tools Documentation"
+                 start-page="General.md">
+
+    <toc-element topic="General.md">
+        <toc-element topic="Gallery.md"/>
+        <toc-element topic="Issues.md"/>
+        <toc-element topic="Contributing.md"/>
+    </toc-element>
+    <toc-element topic="Development-Documentation.md">
+        <toc-element topic="Fabric-Version.md"/>
+        <toc-element topic="Forge-Version.md"/>
+    </toc-element>
+</instance-profile>
