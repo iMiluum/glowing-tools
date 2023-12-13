@@ -1,6 +1,6 @@
 # Issues
 
-Report issues [here (Fabric)](https://github.com/iMiluum/glowing-tools-fabric/issues) and [here (Forge)](https://github.com/iMiluum/glowing-tools-forge/issues)
+Report issues [here](https://github.com/iMiluum/glowing-tools/issues)
 
 ## Known Issues
 
