@@ -14,3 +14,4 @@ Currently translated:
 
 - English (US)
 - Lolcat
+- Chinese (contributed by @oritong)
